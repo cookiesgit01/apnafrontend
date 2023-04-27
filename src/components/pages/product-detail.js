@@ -6,7 +6,7 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import { FaStar } from "react-icons/fa";
 import SweetAlert from "sweetalert-react";
-import "sweetalert/dist/sweetalert.css";
+// import "sweetalert/dist/sweetalert.css";
 import Carousel from "react-bootstrap/Carousel";
 import "../../CSS/style.css";
 import { Link, NavLink, useNavigate } from "react-router-dom";

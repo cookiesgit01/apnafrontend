@@ -11,7 +11,7 @@ import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import moment from "moment";
 import SweetAlert from "sweetalert-react";
-import "sweetalert/dist/sweetalert.css";
+// import "sweetalert/dist/sweetalert.css";
 import Spinner from "react-bootstrap/Spinner";
 import Modal from "react-bootstrap/Modal";
 import Form from "react-bootstrap/Form";
